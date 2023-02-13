@@ -1,4 +1,5 @@
-### Hello 👋 & Welcome 👏, Thanks for visiting my profile. I am Anuj !
+                                                                                                                                        
+### Hi there 👋, I am Anuj !
 
 ---
 
