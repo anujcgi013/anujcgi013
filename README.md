@@ -7,7 +7,7 @@
 
 I am a determined and forward-thinking Fullstack developer with 9+ years of experience, working across a wide range of industries, from financial institutes to big manufacturing players. Proactive and adaptable, specializing in SaaS across multiple platforms; with a strong understanding and deep practical experience in developing sustainable, secure and long-lasting business applications. 
 
-I have expertise in tech stacks such as C#, DotNet, Javascript, Angular, React and Azure.
+I have expertise in tech stacks such as C#, DotNet, Javascript, Angular, React, Blazor and Azure.
 
 ---
 💻 Main Tech Stack
